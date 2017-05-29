@@ -7,4 +7,5 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 <br/>make -j4
 <br/>make check
 <br/>sudo make install
-<br/>sudo make installcheck
+<br/>sudo make installcheck<br/>
+完成可检查是否成功 global --version
