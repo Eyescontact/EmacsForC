@@ -1,3 +1,6 @@
+参考：http://blog.csdn.net/vichie2008/article/details/50342393<br/>
+http://tuhdo.github.io/c-ide.html#sec-2<br/>
+
 1、安装  GNU Global    
 sudo apt-get build-dep global<br />
 sudo apt-get install libncurses5-dev libncursesw5-dev
