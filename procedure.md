@@ -11,5 +11,5 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 <br/>sudo make install
 <br/>sudo make installcheck<br/>
 完成可检查是否成功 global --version<br />
-ps: 由于第1行的参考地址里github登录不进去，开始源代码尝试
+<!-->ps: 由于第1行的参考地址里github登录不进去，开始源代码尝试<--!>
 
